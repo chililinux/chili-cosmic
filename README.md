@@ -1,2 +1,3 @@
-# pkgbuild-template-meta-package
-pkgbuild-template-meta-package
+# chili-cosmic
+
+Meta Package for Cosmic
