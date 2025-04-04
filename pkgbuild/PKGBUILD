@@ -23,6 +23,8 @@ optdepends=(
   cosmic-terminal
   cosmic-player
   cosmic-wallpapers
+  cosmic-greeter
+  lightdm
 )
 
 # Automatically detect and use the correct install file

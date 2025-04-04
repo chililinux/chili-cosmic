@@ -48,7 +48,7 @@ declare IS_DBLOCK=false
 declare DM='lightdm'
 declare WM='cosmic'
 declare pkgname=chili-"${WM}"
-declare servicesToEnable=("${DM}" avahi-daemon sshd cups bluetooth)
+declare servicesToEnable=("${DM}" avahi-daemon sshd cups bluetooth cosmic-greeter)
 declare servicesToDisable=(lxdm sddm gdm)
 
 msg() {
